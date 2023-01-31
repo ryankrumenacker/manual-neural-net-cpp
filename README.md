@@ -1,1 +1,2 @@
-# manual-neural-net-cpp
+# Manual Neural Network Implementation in C++
+
